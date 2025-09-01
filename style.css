@@ -17,7 +17,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #f21b30;
+    background: #fff;
 }
 
 .wrapper {
@@ -78,4 +78,5 @@ button:nth-child(2) {
     margin-right: -200px;
     background: red;
     color: #fff;
+
 }
